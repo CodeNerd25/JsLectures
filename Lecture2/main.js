@@ -1,0 +1,16 @@
+let a = 28;
+console.log(a);
+let name = "Abhishek";
+console.log(name);
+let isStudent = true;
+console.log(isStudent);
+let n = null;
+console.log(n);
+let u;
+console.log(u);
+let minusZero = -0;
+console.log(minusZero);
+let veryBigNumber = 123456789234567893456789;
+console.log(veryBigNumber);
+let bigNumber = 123456789234567893456789456789567896789789789899n;
+console.log(bigNumber);
